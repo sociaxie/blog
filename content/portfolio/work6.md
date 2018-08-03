@@ -7,3 +7,4 @@ title = "2018的印象"
 weight = 6
 +++
 
+![](https://sociaxie.github.io/img/portfolio/7.2018的印象.jpg)  

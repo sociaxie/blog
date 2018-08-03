@@ -7,3 +7,4 @@ title = "仿制铅笔"
 weight = 2
 +++
 
+![](https://sociaxie.github.io/img/portfolio/2仿制铅笔.jpg)  
